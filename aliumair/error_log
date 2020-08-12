@@ -1,0 +1,708 @@
+[16-Jun-2020 08:30:08 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 08:30:08 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'CJ' not found in /home4/halamiles/public_html/aliumair/crn_api_for_cashbacks_non_prior.php:46
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_cashbacks_non_prior.php(38): importCashback('2020-06-06', '2020-06-16')
+#1 {main}
+  thrown in /home4/halamiles/public_html/aliumair/crn_api_for_cashbacks_non_prior.php on line 46
+[16-Jun-2020 08:30:51 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 08:31:38 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 08:31:41 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 08:36:35 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 08:37:50 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 08:46:51 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 12:05:01 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 12:05:06 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 12:58:27 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 13:09:07 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 13:09:14 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 13:20:12 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 13:21:03 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 13:21:03 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home4/halamiles/public_html/aliumair/classes/cj.class.php on line 43
+[16-Jun-2020 13:22:05 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 13:22:05 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home4/halamiles/public_html/aliumair/classes/cj.class.php on line 43
+[16-Jun-2020 13:23:58 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 13:41:09 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 13:41:14 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 13:41:18 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 13:41:44 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 13:42:39 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 13:42:42 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 13:43:39 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 13:43:42 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 13:43:42 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'CJ' not found in /home4/halamiles/public_html/aliumair/crn_api_for_cashbacks_non_prior.php:45
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_cashbacks_non_prior.php(37): importCashback('2020-06-06', '2020-06-16')
+#1 {main}
+  thrown in /home4/halamiles/public_html/aliumair/crn_api_for_cashbacks_non_prior.php on line 45
+[16-Jun-2020 13:43:45 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 13:43:49 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 13:46:52 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 13:49:30 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 13:50:04 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 13:50:39 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 13:50:56 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 13:54:25 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 13:54:28 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 13:54:39 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 13:56:15 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[16-Jun-2020 13:56:50 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[17-Jun-2020 00:41:20 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[18-Jun-2020 12:03:07 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST) in /home4/halamiles/public_html/aliumair/classes/network.class.php on line 706
+[18-Jun-2020 12:03:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST) in /home4/halamiles/public_html/aliumair/classes/network.class.php on line 706
+[18-Jun-2020 12:06:28 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home4/halamiles/public_html/aliumair/classes/network.class.php on line 707
+[18-Jun-2020 12:06:41 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home4/halamiles/public_html/aliumair/classes/network.class.php on line 707
+[18-Jun-2020 12:08:19 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home4/halamiles/public_html/aliumair/classes/network.class.php on line 708
+[18-Jun-2020 12:08:35 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST) in /home4/halamiles/public_html/aliumair/classes/network.class.php on line 706
+[18-Jun-2020 12:12:45 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/halamiles/public_html/aliumair/classes/network.class.php on line 187
+[18-Jun-2020 12:16:47 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/halamiles/public_html/aliumair/classes/network.class.php on line 147
+[18-Jun-2020 12:16:51 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/halamiles/public_html/aliumair/classes/network.class.php on line 147
+[18-Jun-2020 12:19:43 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home4/halamiles/public_html/aliumair/classes/network.class.php on line 106
+[18-Jun-2020 12:24:45 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST) in /home4/halamiles/public_html/aliumair/classes/network.class.php on line 94
+[18-Jun-2020 12:27:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST) in /home4/halamiles/public_html/aliumair/classes/network.class.php on line 94
+[18-Jun-2020 12:27:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST) in /home4/halamiles/public_html/aliumair/classes/network.class.php on line 94
+[18-Jun-2020 12:28:42 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST) in /home4/halamiles/public_html/aliumair/classes/network.class.php on line 94
+[18-Jun-2020 12:30:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST) in /home4/halamiles/public_html/aliumair/classes/network.class.php on line 94
+[18-Jun-2020 12:48:02 America/Chicago] PHP Fatal error:  Interface 'Import' not found in /home4/halamiles/public_html/aliumair/classes/cj.class.php on line 2
+[18-Jun-2020 12:49:02 America/Chicago] PHP Fatal error:  Interface 'Import' not found in /home4/halamiles/public_html/aliumair/classes/cj.class.php on line 2
+[18-Jun-2020 12:50:02 America/Chicago] PHP Fatal error:  Interface 'Import' not found in /home4/halamiles/public_html/aliumair/classes/cj.class.php on line 2
+[18-Jun-2020 12:51:02 America/Chicago] PHP Fatal error:  Interface 'Import' not found in /home4/halamiles/public_html/aliumair/classes/cj.class.php on line 2
+[18-Jun-2020 12:53:03 America/Chicago] PHP Fatal error:  Interface 'Import' not found in /home4/halamiles/public_html/aliumair/classes/cj.class.php on line 2
+[07-Jul-2020 15:54:53 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 15:55:43 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 15:55:44 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 16:09:45 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 16:22:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 16:24:21 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 17:24:49 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 17:30:50 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 17:32:30 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 17:33:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function Admitad\Api\Api() in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 17:34:09 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 17:39:45 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 17:39:48 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 17:40:01 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 17:42:08 America/Chicago] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 17:42:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 17:42:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 17:42:40 America/Chicago] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 17:42:54 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 17:43:27 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 17:53:42 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 17:53:46 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 17:53:49 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 17:59:45 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 18:01:43 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 18:02:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 18:05:47 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 18:06:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function Admitad\Api\Api() in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 18:07:03 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 18:09:02 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 18:09:17 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 18:11:25 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 18:11:28 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 18:16:26 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 18:18:04 America/Chicago] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting identifier (T_STRING) in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 35
+[07-Jul-2020 18:18:31 America/Chicago] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting identifier (T_STRING) in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 35
+[07-Jul-2020 18:18:35 America/Chicago] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting identifier (T_STRING) in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 35
+[07-Jul-2020 18:18:43 America/Chicago] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting identifier (T_STRING) in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 35
+[07-Jul-2020 18:19:29 America/Chicago] PHP Parse error:  syntax error, unexpected ''Admitad\Api\Tests\\'' (T_CONSTANT_ENCAPSED_STRING) in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 35
+[07-Jul-2020 18:19:31 America/Chicago] PHP Parse error:  syntax error, unexpected ''Admitad\Api\Tests\\'' (T_CONSTANT_ENCAPSED_STRING) in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 35
+[07-Jul-2020 18:21:25 America/Chicago] PHP Parse error:  syntax error, unexpected ''Admitad\Api\Tests\\'' (T_CONSTANT_ENCAPSED_STRING) in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 35
+[07-Jul-2020 18:21:50 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 18:22:16 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 18:22:18 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 18:22:36 America/Chicago] PHP Parse error:  syntax error, unexpected '@' in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 18:22:37 America/Chicago] PHP Parse error:  syntax error, unexpected '@' in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 18:22:54 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 18:22:55 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 18:27:21 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[07-Jul-2020 18:27:22 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-07')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[08-Jul-2020 00:05:04 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[08-Jul-2020 00:17:08 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[08-Jul-2020 00:17:11 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[08-Jul-2020 00:17:28 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[08-Jul-2020 00:18:11 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[08-Jul-2020 00:18:14 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[08-Jul-2020 00:18:15 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Composer\Autoload\ClassLoader' not found in /home4/halamiles/public_html/aliumair/admitad/vendor/composer/autoload_real.php:23
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/admitad/vendor/autoload.php(7): ComposerAutoloaderIniteca505e8a97b6cba4f245afef08ecd11::getLoader()
+#1 /home4/halamiles/public_html/aliumair/classes/admitad.class.php(21): include('/home4/halamile...')
+#2 /home4/halamiles/public_html/aliumair/classes/admitad.class.php(29): Admitad->includeIfExists('/home4/halamile...')
+#3 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#4 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-08')
+#5 {main}
+  thrown in /home4/halamiles/public_html/aliumair/admitad/vendor/composer/autoload_real.php on line 23
+[08-Jul-2020 00:18:18 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[08-Jul-2020 00:18:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[08-Jul-2020 00:18:23 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[08-Jul-2020 00:19:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ')' in /home4/halamiles/public_html/aliumair/admitad/vendor/composer/ClassLoader.php on line 136
+[08-Jul-2020 00:19:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ')' in /home4/halamiles/public_html/aliumair/admitad/vendor/composer/ClassLoader.php on line 136
+[08-Jul-2020 00:19:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ')' in /home4/halamiles/public_html/aliumair/admitad/vendor/composer/ClassLoader.php on line 136
+[08-Jul-2020 00:19:45 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[08-Jul-2020 00:19:47 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[08-Jul-2020 00:20:06 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[08-Jul-2020 00:20:09 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[08-Jul-2020 00:21:04 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[08-Jul-2020 00:21:07 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[08-Jul-2020 00:24:30 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[08-Jul-2020 00:25:24 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[08-Jul-2020 00:33:07 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 36
+[08-Jul-2020 00:33:09 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 36
+[08-Jul-2020 00:40:05 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Request' not found in /home4/halamiles/public_html/aliumair/admitad/src/admitad/api/Api.php:44
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/classes/admitad.class.php(45): Admitad\Api\Api->authorizeByPassword('5ac5e5ef29ad2ac...', 'a62674461c56f0a...', 'statistics', 'cashbackshoppin...', 'trading1')
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#2 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-08')
+#3 {main}
+  thrown in /home4/halamiles/public_html/aliumair/admitad/src/admitad/api/Api.php on line 44
+[08-Jul-2020 00:41:48 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:43
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 43
+[08-Jul-2020 00:46:49 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad' not found in /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php:98
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-08')
+#1 {main}
+  thrown in /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php on line 98
+[08-Jul-2020 00:49:47 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Request' not found in /home4/halamiles/public_html/aliumair/admitad/src/admitad/api/Api.php:44
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/classes/admitad.class.php(41): Admitad\Api\Api->authorizeByPassword('5ac5e5ef29ad2ac...', 'a62674461c56f0a...', 'statistics', 'cashbackshoppin...', 'trading1')
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#2 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-08')
+#3 {main}
+  thrown in /home4/halamiles/public_html/aliumair/admitad/src/admitad/api/Api.php on line 44
+[08-Jul-2020 00:49:50 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Request' not found in /home4/halamiles/public_html/aliumair/admitad/src/admitad/api/Api.php:44
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/classes/admitad.class.php(41): Admitad\Api\Api->authorizeByPassword('5ac5e5ef29ad2ac...', 'a62674461c56f0a...', 'statistics', 'cashbackshoppin...', 'trading1')
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#2 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-08')
+#3 {main}
+  thrown in /home4/halamiles/public_html/aliumair/admitad/src/admitad/api/Api.php on line 44
+[08-Jul-2020 00:49:52 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Request' not found in /home4/halamiles/public_html/aliumair/admitad/src/admitad/api/Api.php:44
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/classes/admitad.class.php(41): Admitad\Api\Api->authorizeByPassword('5ac5e5ef29ad2ac...', 'a62674461c56f0a...', 'statistics', 'cashbackshoppin...', 'trading1')
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#2 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-08')
+#3 {main}
+  thrown in /home4/halamiles/public_html/aliumair/admitad/src/admitad/api/Api.php on line 44
+[08-Jul-2020 00:57:58 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Request' not found in /home4/halamiles/public_html/aliumair/admitad/src/admitad/api/Api.php:44
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/classes/admitad.class.php(41): Admitad\Api\Api->authorizeByPassword('BuX9X2gUmdXkHUk...', 'A5t3wHteMmIGJZU...', 'statistics', 'halamiles', '{6baAHzF')
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#2 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-08')
+#3 {main}
+  thrown in /home4/halamiles/public_html/aliumair/admitad/src/admitad/api/Api.php on line 44
+[08-Jul-2020 00:58:00 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Request' not found in /home4/halamiles/public_html/aliumair/admitad/src/admitad/api/Api.php:44
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/classes/admitad.class.php(41): Admitad\Api\Api->authorizeByPassword('BuX9X2gUmdXkHUk...', 'A5t3wHteMmIGJZU...', 'statistics', 'halamiles', '{6baAHzF')
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#2 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-08')
+#3 {main}
+  thrown in /home4/halamiles/public_html/aliumair/admitad/src/admitad/api/Api.php on line 44
+[08-Jul-2020 00:58:32 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[08-Jul-2020 00:59:25 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('22-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[08-Jul-2020 01:00:51 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('23-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[08-Jul-2020 01:23:03 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('23-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[08-Jul-2020 01:31:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('23-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[08-Jul-2020 01:40:25 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('23-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[08-Jul-2020 01:51:15 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('23-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[08-Jul-2020 01:51:17 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('23-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[08-Jul-2020 01:51:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:37
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('23-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 37
+[08-Jul-2020 01:51:42 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/public_html/aliumair/admitad/src/admitad/api/Api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 2
+[08-Jul-2020 01:55:33 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Request' not found in /home4/halamiles/public_html/aliumair/admitad/src/admitad/api/Api.php:44
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/classes/admitad.class.php(42): Admitad\Api\Api->authorizeByPassword('BuX9X2gUmdXkHUk...', 'A5t3wHteMmIGJZU...', 'statistics', 'halamiles', '{6baAHzF')
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#2 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('23-02-2020', '2020-07-08')
+#3 {main}
+  thrown in /home4/halamiles/public_html/aliumair/admitad/src/admitad/api/Api.php on line 44
+[08-Jul-2020 01:57:00 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Request' not found in /home4/halamiles/public_html/aliumair/admitad/src/admitad/api/Api.php:44
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/classes/admitad.class.php(42): Admitad\Api\Api->authorizeByPassword('BuX9X2gUmdXkHUk...', 'A5t3wHteMmIGJZU...', 'statistics', 'halamiles', '{6baAHzF')
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#2 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('23-02-2020', '2020-07-08')
+#3 {main}
+  thrown in /home4/halamiles/public_html/aliumair/admitad/src/admitad/api/Api.php on line 44
+[08-Jul-2020 02:13:56 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:38
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('23-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 38
+[08-Jul-2020 02:13:59 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:38
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('23-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 38
+[08-Jul-2020 02:22:23 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad' not found in /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php:98
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('23-02-2020', '2020-07-08')
+#1 {main}
+  thrown in /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php on line 98
+[08-Jul-2020 02:22:28 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Request' not found in /home4/halamiles/public_html/aliumair/admitad/src/admitad/api/Api.php:44
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/classes/admitad.class.php(44): Admitad\Api\Api->authorizeByPassword('BuX9X2gUmdXkHUk...', 'A5t3wHteMmIGJZU...', 'statistics', 'halamiles', '{6baAHzF')
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#2 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('23-02-2020', '2020-07-08')
+#3 {main}
+  thrown in /home4/halamiles/public_html/aliumair/admitad/src/admitad/api/Api.php on line 44
+[08-Jul-2020 02:25:02 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home4/halamiles/public_html/aliumair/classes/../admitad/src/admitad/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 2
+[08-Jul-2020 02:25:37 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:38
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('23-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 38
+[08-Jul-2020 02:26:04 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Request' not found in /home4/halamiles/public_html/aliumair/admitad/src/admitad/api/Api.php:44
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/classes/admitad.class.php(45): Admitad\Api\Api->authorizeByPassword('BuX9X2gUmdXkHUk...', 'A5t3wHteMmIGJZU...', 'statistics', 'halamiles', '{6baAHzF')
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#2 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('23-02-2020', '2020-07-08')
+#3 {main}
+  thrown in /home4/halamiles/public_html/aliumair/admitad/src/admitad/api/Api.php on line 44
+[08-Jul-2020 02:26:37 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:39
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('23-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 39
+[08-Jul-2020 02:33:49 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:39
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('23-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 39
+[08-Jul-2020 06:16:50 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home4/halamiles/public_html/aliumair/admitad/vendor/composer/../symfony/polyfill-ctype/bootstrap.php' (include_path='/home4/halamiles/public_html/aliumair/admitad/vendor/phpunit/phpunit-mock-objects:/home4/halamiles/public_html/aliumair/admitad/vendor/phpunit/php-token-stream:/home4/halamiles/public_html/aliumair/admitad/vendor/phpunit/php-code-coverage:/home4/halamiles/public_html/aliumair/admitad/vendor/phpunit/phpunit:/home4/halamiles/public_html/aliumair/admitad/vendor/symfony/yaml:.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/halamiles/public_html/aliumair/admitad/vendor/composer/autoload_real.php on line 70
+[08-Jul-2020 06:40:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:38
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('23-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 38
+[08-Jul-2020 06:43:49 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:38
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('23-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 38
+[08-Jul-2020 06:44:04 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:38
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('23-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 38
+[08-Jul-2020 10:25:27 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:38
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('23-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 38
+[08-Jul-2020 14:39:07 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:38
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('23-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 38
+[08-Jul-2020 14:39:21 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:38
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('23-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 38
+[08-Jul-2020 16:22:27 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:38
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('23-02-2020', '2020-07-08')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 38
+[09-Jul-2020 00:57:43 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:38
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('23-02-2020', '2020-07-09')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 38
+[09-Jul-2020 01:00:04 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:44
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('24-02-2020', '2020-07-09')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 44
+[09-Jul-2020 01:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:44
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('24-02-2020', '2020-07-09')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 44
+[09-Jul-2020 01:00:58 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad\Api\Api' not found in /home4/halamiles/public_html/aliumair/classes/admitad.class.php:48
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(117): Admitad->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('24-02-2020', '2020-07-09')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 48
+[10-Jul-2020 11:06:49 America/Chicago] PHP Recoverable fatal error:  Object of class Admitad\Api\Iterator could not be converted to string in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 75
+[10-Jul-2020 11:06:52 America/Chicago] PHP Recoverable fatal error:  Object of class Admitad\Api\Iterator could not be converted to string in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 75
+[10-Jul-2020 11:06:56 America/Chicago] PHP Recoverable fatal error:  Object of class Admitad\Api\Iterator could not be converted to string in /home4/halamiles/public_html/aliumair/classes/admitad.class.php on line 75
+[15-Jul-2020 11:31:48 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Awin' not found in /home4/halamiles/public_html/aliumair/crn_api_for_cashbacks_non_prior.php:47
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_cashbacks_non_prior.php(38): importCashback('2020-06-25', '2020-07-15')
+#1 {main}
+  thrown in /home4/halamiles/public_html/aliumair/crn_api_for_cashbacks_non_prior.php on line 47
+[15-Jul-2020 11:33:38 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Awin' not found in /home4/halamiles/public_html/aliumair/crn_api_for_cashbacks_non_prior.php:47
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_cashbacks_non_prior.php(38): importCashback('2020-06-25', '2020-07-15')
+#1 {main}
+  thrown in /home4/halamiles/public_html/aliumair/crn_api_for_cashbacks_non_prior.php on line 47
+[19-Jul-2020 20:32:26 America/Chicago] PHP Fatal error:  Uncaught RuntimeException: API response not well-formed (json error code: 4) in /home4/halamiles/public_html/aliumair/classes/bmillions.class.php:63
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_cashbacks_non_prior.php(57): BMILLIONS->loadFeedXML()
+#1 /home4/halamiles/public_html/aliumair/crn_api_for_cashbacks_non_prior.php(39): importCashback('2020-06-29', '2020-07-19')
+#2 {main}
+  thrown in /home4/halamiles/public_html/aliumair/classes/bmillions.class.php on line 63
+[20-Jul-2020 13:00:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad' not found in /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php:98
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('16-06-2020', '2020-07-20')
+#1 {main}
+  thrown in /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php on line 98
+[20-Jul-2020 13:01:53 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad' not found in /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php:98
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('16-06-2020', '2020-07-20')
+#1 {main}
+  thrown in /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php on line 98
+[20-Jul-2020 13:18:03 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Admitad' not found in /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php:98
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php(59): importCashback('16-06-2020', '2020-07-20')
+#1 {main}
+  thrown in /home4/halamiles/public_html/aliumair/crn_api_for_admitad.php on line 98
+[07-Aug-2020 09:49:44 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Vcommission' not found in /home4/halamiles/public_html/aliumair/crn_api_for_cashbacks_non_prior.php:51
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_cashbacks_non_prior.php(40): importCashback('2020-07-18', '2020-08-07')
+#1 {main}
+  thrown in /home4/halamiles/public_html/aliumair/crn_api_for_cashbacks_non_prior.php on line 51
+[07-Aug-2020 09:49:49 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Vcommission' not found in /home4/halamiles/public_html/aliumair/crn_api_for_cashbacks_non_prior.php:51
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_cashbacks_non_prior.php(40): importCashback('2020-07-18', '2020-08-07')
+#1 {main}
+  thrown in /home4/halamiles/public_html/aliumair/crn_api_for_cashbacks_non_prior.php on line 51
+[07-Aug-2020 09:50:55 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Vcommission' not found in /home4/halamiles/public_html/aliumair/crn_api_for_cashbacks_non_prior.php:51
+Stack trace:
+#0 /home4/halamiles/public_html/aliumair/crn_api_for_cashbacks_non_prior.php(40): importCashback('2020-07-18', '2020-08-07')
+#1 {main}
+  thrown in /home4/halamiles/public_html/aliumair/crn_api_for_cashbacks_non_prior.php on line 51
